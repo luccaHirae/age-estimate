@@ -36,8 +36,8 @@ Esta aplicação foi desenvolvida como parte de um teste técnico para demonstra
 1. **Clone o repositório** (se aplicável):
 
    ```bash
-   git clone <url-do-repositorio>
-   cd voltera-frontend-test
+   git clone <url-do-repositório>
+   cd <nome-do-repositório>
    ```
 
 2. **Instale as dependências**:
