@@ -52,6 +52,7 @@
 		
 		<div class="input-section">
 			<label for="name-input" class="input-label">Digite um nome:</label>
+			<!-- svelte-ignore a11y_autofocus -->
 			<input
 				id="name-input"
 				type="text"
@@ -60,6 +61,7 @@
 				placeholder="Digite um nome..."
 				class="name-input"
 				autocomplete="off"
+				autofocus
 			/>
 		</div>
 
